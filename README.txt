@@ -1,4 +1,0 @@
-## Install
-```
-git clone
-```
